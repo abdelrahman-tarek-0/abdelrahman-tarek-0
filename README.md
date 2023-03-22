@@ -1,7 +1,9 @@
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/918435759969685524/1087272884537397258/ezgif.com-video-to-gif.gif" alter="Who am i">
+<img src="https://cdn.discordapp.com/attachments/918435759969685524/1087984787823804456/76cI-unscreen_1.gif" alter="Who am i">
 </p>
-
+I'm a Node JS developer who loves building stuff with node (APIs, APPs, scrapping,...etc)<br />
+I'm also a student at FCAI at Helwan university<br />
+and graduated from  Udacity full-stack nano degree<br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrahman-tarek-0&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahman-tarek-0" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelrahman-tarek-0" alt="abdelrahman-tarek-0" /></a> </p>
