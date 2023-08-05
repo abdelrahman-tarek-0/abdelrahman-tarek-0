@@ -12,7 +12,7 @@ and graduated from  Udacity full-stack nano degree<br />
 
 - my account on wuzuf [https://wuzzuf.net/me/abdo-web-dev](https://wuzzuf.net/me/abdo-web-dev)
 
-- 👨‍💻 my gmail **[here](tarekabdelrahman527@gmail.com)**
+- 👨‍💻 my gmail **(tarekabdelrahman527@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
