@@ -1,10 +1,9 @@
-<p align="center">
-  
-<center>
 
+<div align="center">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&duration=4000&pause=400&color=F2F2F2&background=0C0C0C00&center=true&vCenter=true&width=600&lines=%24+whoami;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Software+Engineer;%F0%9F%9A%80+Node.js+Enthusiast;%F0%9F%94%A7+Crafting+Bots%2C+Apps%2C+APIs+and+more...;%E2%8C%9A+Loves+and+build+real-time+communication+Apps;%F0%9F%90%BE+Cat+Lover" alt="Typing SVG" /></a>
-  
-</center>
+</div>
+
+
 
 </p>
 I'm a Node JS developer who loves building stuff with node (APIs, APPs, BOTs, scrapping,...etc)<br />
